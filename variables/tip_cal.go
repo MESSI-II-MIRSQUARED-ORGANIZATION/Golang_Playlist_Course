@@ -9,7 +9,7 @@ func main(){
 
 	var billAmount, tipPercentage float64
 
-	// fmt.Println("Enter the bill amount: ")
+	fmt.Println("Enter the bill amount: ")
 	fmt.Scanln(&billAmount)
 
 
